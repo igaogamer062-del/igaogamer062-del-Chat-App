@@ -1,4 +1,4 @@
 window.PAINEL_CONFIG = {
-  url: 'https://SEU-PROJETO.supabase.co',
-  key: 'SUA-CHAVE-ANON-PUBLICA'
+  url: 'https://dyewxsxmqywhffvtnpzo.supabase.co',
+  key: 'sb_publishable_uyBWOV6S1Dh6J4ZUn3xy-Q_P4v4TJaW'
 };
